@@ -1,0 +1,6 @@
+streamlit
+ollama
+ddgs
+pypdf
+numpy
+reportlab
